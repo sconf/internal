@@ -115,4 +115,4 @@
 //    - make error context accessible programmatically?
 //    - limit input size?
 //
-package gcfg // import "gopkg.in/sconf/internal.v0/internal/gcfg"
+package gcfg // import "gopkg.in/sconf/internal.v0/internal_/gcfg"

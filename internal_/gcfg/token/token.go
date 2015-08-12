@@ -8,7 +8,7 @@
 // Note that the API for the token package may change to accommodate new
 // features or implementation changes in gcfg.
 //
-package token // import "gopkg.in/sconf/internal.v0/internal/gcfg/token"
+package token // import "gopkg.in/sconf/internal.v0/internal_/gcfg/token"
 
 import "strconv"
 

@@ -9,7 +9,7 @@
 // Note that the API for the scanner package may change to accommodate new
 // features or implementation changes in gcfg.
 //
-package scanner // import "gopkg.in/sconf/internal.v0/internal/gcfg/scanner"
+package scanner // import "gopkg.in/sconf/internal.v0/internal_/gcfg/scanner"
 
 import (
 	"fmt"
@@ -19,7 +19,7 @@ import (
 )
 
 import (
-	"gopkg.in/sconf/internal.v0/internal/gcfg/token"
+	"gopkg.in/sconf/internal.v0/internal_/gcfg/token"
 )
 
 // An ErrorHandler may be provided to Scanner.Init. If a syntax error is
