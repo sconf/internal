@@ -5,7 +5,7 @@ import (
 	"log"
 )
 
-import "gopkg.in/sconf/internal.v0/internal_/gcfg"
+import "gopkg.in/sconf/internal.v0/internal-/gcfg"
 
 func ExampleReadStringInto() {
 	cfgStr := `; Comment line

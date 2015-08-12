@@ -2,10 +2,10 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package internal // import "gopkg.in/sconf/internal.v0/internal_"
+package internal // import "gopkg.in/sconf/internal.v0/internal-"
 
 import (
-	"gopkg.in/sconf/internal.v0/internal_/gcfg"
+	"gopkg.in/sconf/internal.v0/internal-/gcfg"
 )
 
 type Struct struct {

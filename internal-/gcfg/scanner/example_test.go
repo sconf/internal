@@ -9,8 +9,8 @@ import (
 )
 
 import (
-	"gopkg.in/sconf/internal.v0/internal_/gcfg/scanner"
-	"gopkg.in/sconf/internal.v0/internal_/gcfg/token"
+	"gopkg.in/sconf/internal.v0/internal-/gcfg/scanner"
+	"gopkg.in/sconf/internal.v0/internal-/gcfg/token"
 )
 
 func ExampleScanner_Scan() {
